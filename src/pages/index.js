@@ -83,7 +83,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Gatsby!</b>
+        Welcome to <b>Gatsby, Bitches!</b>
       </h1>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
@@ -94,7 +94,7 @@ const IndexPage = () => (
           </React.Fragment>
         ))}
         <br />
-        Edit <code>src/pages/index.js</code> to update this page.
+        Edit <code>src/pages/index.js</code> to update this page, muthas!
       </p>
     </div>
     <ul className={styles.list}>
